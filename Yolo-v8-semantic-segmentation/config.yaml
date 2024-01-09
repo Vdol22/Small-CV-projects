@@ -1,0 +1,6 @@
+path: C:/Repos/Small-CV-projects/Yolo-v8-semantic-segmentation/data
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['duck']
