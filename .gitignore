@@ -3,3 +3,7 @@
 .ipynb_checkpoints/
 *.jpeg
 *.jpg
+*.txt
+*.csv
+data-all
+*.cache
