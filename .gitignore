@@ -7,3 +7,4 @@
 *.csv
 data-all
 *.cache
+Classifier SKlearn/data/*
