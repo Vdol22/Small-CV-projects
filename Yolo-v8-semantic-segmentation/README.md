@@ -8,9 +8,13 @@
 Изучив данные обнаржуилось, что лейблинг на многих фото ленивый. На 1 фотографии может быть 3 утки, но лейбл есть только для 1 => можно улучшить качество инференса лучше разметив данные.
 
 Графики сегментации:
-![Alt text](runs/detect/train4/results.png)
-![Alt text](runs/detect/train4/confusion_matrix_normalized.png)
+
+<img src="runs/detect/train4/results.png" alt="results.png" width="500">
+
+<img src="runs/detect/train4/confusion_matrix_normalized.png" alt="confusion_matrix_normalized.png" width="500">
+
 
 Фото и маска:
-![Alt text](image0.jpg)
-![Alt text](output.png)
+
+<img src="image0.jpg" alt="image0.jpg" width="500">
+<img src="output.png" alt="output.png" width="500">
