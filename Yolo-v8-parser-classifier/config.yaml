@@ -1,8 +1,0 @@
-
-path: C:\Repos\Small-CV-projects\Yolo-v8-parser-classifier\data_all\images  # dataset root dir
-train: train  # train images (relative to 'path')
-val: val  # val images (relative to 'path')
-
-# Classes
-names:
-  0: alpaca
