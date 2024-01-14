@@ -6,5 +6,7 @@
 
 **Результат:**
 В 7% случаев определния класса "солнечно" путает с "рассвет" и 2% "облачно" с "солнечно". Не осуждаю.
-![results](runs/classify/train222/results.png)
-![confusion_matrix_normalized](runs/classify/train222/confusion_matrix_normalized.png)
+
+<img src="runs/classify/train222/results.png" alt="results.png" width="500">
+
+<img src="runs/classify/train222/confusion_matrix_normalized.png" alt="confusion_matrix_normalized.png" width="500">
