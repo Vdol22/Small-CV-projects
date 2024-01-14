@@ -6,4 +6,6 @@
 
 **Результат:**
 Live long and prosper.
-![Alt text](result.png)
+
+
+<img src="result.png" alt="result.png" width="500"/>
