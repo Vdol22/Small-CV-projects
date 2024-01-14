@@ -1,11 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 .ipynb_checkpoints/
-*.jpeg
-*.jpg
 *.txt
 *.csv
 data-all
+data
+runs
 *.cache
 Classifier SKlearn/datap
 pwd
